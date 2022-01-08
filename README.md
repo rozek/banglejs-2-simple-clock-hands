@@ -1,6 +1,6 @@
 # banglejs-2-simple-clock-hands #
 
-draws simple hands for an analog clock
+draws simple hands for an analog clock on a Bangle.js 2
 
 This module draws some very simple hands for an analog clock running on a [Bangle.js 2](https://www.espruino.com/Bangle.js2).
 
