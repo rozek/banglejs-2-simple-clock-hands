@@ -1,4 +1,4 @@
-(function () {
+;(function () {
   let HourHandWidth   = 2*3, halfHourHandWidth   = HourHandWidth/2;
   let MinuteHandWidth = 2*2, halfMinuteHandWidth = MinuteHandWidth/2;
 
